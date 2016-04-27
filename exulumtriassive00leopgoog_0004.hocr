@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exulumtriassive00leopgoog_0004.png"; bbox 0 0 3734 5518; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 14 31 794 137">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 14 31 794 137">
+     <span class='ocr_line' id='line_1_1' title="bbox 14 31 794 137; baseline -0.008 -44"><span class='ocrx_word' id='word_1_1' title='bbox 14 89 26 137; x_wconf 47' lang='lat'><em>5</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 92 65 98 74; x_wconf 93' lang='lat'>·</span> <span class='ocrx_word' id='word_1_3' title='bbox 129 71 147 107; x_wconf 53' lang='grc' dir='ltr'><strong><em>γ</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 287 53 292 69; x_wconf 91' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 311 31 794 121; x_wconf 50' lang='lat' dir='ltr'>sfffffflfsmrrcffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 134 303 1627 499">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1 257 1627 568">
+     <span class='ocr_line' id='line_1_2' title="bbox 134 303 1627 499; baseline -0.006 -77.736"><span class='ocrx_word' id='word_1_6' title='bbox 134 303 482 421; x_wconf 79' lang='lat' dir='ltr'>EXULUM</span> <span class='ocrx_word' id='word_1_7' title='bbox 524 303 823 422; x_wconf 74' lang='lat' dir='ltr'><strong>TfflAs..</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1105 291 1206 468; x_wconf 40' lang='lat' dir='ltr'>{C</span> <span class='ocrx_word' id='word_1_9' title='bbox 1250 379 1627 499; x_wconf 43' lang='grc' dir='ltr'>ΜΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1069 5092 1594 5176">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1069 5092 1594 5176">
+     <span class='ocr_line' id='line_1_3' title="bbox 1069 5092 1594 5176; baseline 0.006 -11"><span class='ocrx_word' id='word_1_10' title='bbox 1069 5093 1123 5168; x_wconf 85' lang='grc' dir='ltr'>Η.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1157 5092 1214 5166; x_wconf 84' lang='grc' dir='ltr'>Μ.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1244 5093 1292 5176; x_wconf 78' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1330 5094 1594 5171; x_wconf 71' lang='lat' dir='ltr'>LEOPOLD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1872 5518">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1872 5518">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1872 5518; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1872 5518; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
